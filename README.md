@@ -2,8 +2,6 @@ Project Goal: Identify the key characteristics that differentiate churners from 
 
 Tools: Power BI, Microsoft Excel.
 
-Dataset: Available upon request.
-
 Key Insights: 
 - Germany recorded the highest number of churned customers.
 - Churners had an average age of 45 and an average tenure of 4.93 years.
